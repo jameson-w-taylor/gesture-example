@@ -1,0 +1,7 @@
+{
+  "name": "gesture-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
